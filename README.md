@@ -9,7 +9,9 @@ Project was built to demostrate my learnings in:
 - Software Architecture
 - Backend and Front end development capabilities
 - Static Code Analysis
-- Software Testing and Code coverage analysis\*
+- Software Testing and Code coverage analysis
+
+![Domain Model](docs/DomainModel_TeamD.jpg)
 
 ## Prerequisites
 
